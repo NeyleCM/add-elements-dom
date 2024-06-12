@@ -1,0 +1,28 @@
+
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Verdana;
+    color: blueviolet;
+}
+
+button {
+    color: rgb(0, 183, 255);
+    background-color: aliceblue;
+    border-radius: 20px;
+    border-color:rgb(0, 183, 255);
+    padding: 10px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+
+button:hover {
+
+}
+
+ul {
+    font-family: Verdana;
+    color: deeppink;
+}
